@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>peanut-resource-editor</DisplayName>
+    <Description>windows app for edit resource package</Description>
+    <Version>1.0.0-1</Version>
+    <ReleaseDate>2018-01-10</ReleaseDate>
+    <Default>true</Default>
+    <Script>installscript.qs</Script>
+</Package>
